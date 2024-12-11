@@ -1,4 +1,3 @@
-
 <h1>>Custom Collection Initalizers</h1>
 
 <p>
