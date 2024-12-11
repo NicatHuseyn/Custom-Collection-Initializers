@@ -1,4 +1,4 @@
-<h1>>Custom Collection Initalizers</h1>
+<h1>Custom Collection Initalizers</h1>
 
 <p>
   C#-da collection initializers, daha asan və oxunaqlı bir şəkildə başlatmaq üçün istifadə edilən bir özəllikdir. Bu özəllik sayəsində collection class-lara element əlavə etmə zamanı daha     oxunaqlı və qısa bir syntax ilə edilə bilər.
